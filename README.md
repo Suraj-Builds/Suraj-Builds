@@ -38,8 +38,6 @@ Welcome to my corner of GitHub! I'm a passionate full stack developer from Pune 
 
 ### 📊 GitHub Journey
 
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj-Builds&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Builds&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🎓 Educational Foundation
