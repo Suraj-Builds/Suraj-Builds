@@ -8,18 +8,16 @@ Welcome to my corner of GitHub! I'm a passionate full stack developer from Pune 
 
 ### Frontend Mastery:
 - React.js with Redux & Redux-Saga | JavaScript ES6+ | TypeScript
-- HTML5 | CSS3 | SCSS | Material-UI for responsive, pixel-perfect designs
-- Expert in version migrations, optimization & complex state management
+- Material-UI | HTML5 | CSS | SCSS for responsive, pixel-perfect designs
+- Expert in complex state management
 
 ### Backend Excellence:
-- Spring Boot & Spring Web MVC with Java enterprise best practices
-- RESTful API design, Hibernate ORM & JUnit testing with high coverage
+- Spring Boot & Spring Web MVC with Java
+- RESTful API design, Hibernate ORM & JUnit testing
 - Scalable architecture implementation and performance optimization
 
 ### Database & DevOps:
 - PostgreSQL with SQL optimization and query performance tuning
-- Git version control, collaboration & template engines (Thymeleaf)
-- Digital document processing, PDF generation & CSV data systems
 
 ### Specialized Skills:
 - Data visualization implementation
@@ -30,16 +28,7 @@ Welcome to my corner of GitHub! I'm a passionate full stack developer from Pune 
 - Real-time WebRTC applications
 - Mobile-responsive design patterns
 
-## 📊 GitHub Journey
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Builds&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🎓 Educational Foundation
-**Electronics & Telecommunications Engineering** - VJTI Mumbai (2016-2020)  
-CGPA: 7.36/10
-
-## 🎯 Beyond the Code
-- 🧩 **Sudoku Master** - Logic puzzles keep the mind sharp
-- 📚 **Tech Explorer** - Always learning new frameworks and tools
 
 ## 📫 Let's Connect & Build Something Amazing!
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suraj-jaiswal.netlify.app)
