@@ -1,6 +1,6 @@
 # Hello Universe! 🌟 I'm Suraj Jaiswal 👨‍💻
 
-## 🚀 Full Stack Software Developer | Transforming Caffeine ☕ into Code 💻 Since 2020
+## 🚀 Full Stack Software Developer | Transforming Caffeine ☕ into Code
 
 *Currently based in Pune 📍, where I spend my days turning wild ideas 💡 into elegant digital solutions (and occasionally debugging why my code works on my machine but nowhere else 🤷‍♂️).*
 
