@@ -38,25 +38,24 @@ When I'm not busy convincing computers to do exactly what I want (which is harde
 
 ## 📫 Let's Connect & Build Something Amazing!
 <p align="center">
-  <a href="https://suraj-jaiswal.netlify.app">
+  <a href="https://suraj-jaiswal.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Suraj--Jaiswal.netlify.app-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <br>
-  <a href="mailto:Build.Suraj@gmail.com">
+  <a href="mailto:Build.Suraj@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-Build.Suraj@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <br>
-  <a href="https://github.com/Suraj-Builds">
+  <a href="https://github.com/Suraj-Builds" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Suraj--Builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br>
-  <a href="https://linkedin.com/in/suraj-jaiswal-6a84011b1">
+  <a href="https://linkedin.com/in/suraj-jaiswal-6a84011b1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-
-Whether you're looking to collaborate on an exciting project, need a reliable full stack developer, or want to discuss the latest in web development, I'm always up for a meaningful conversation!
+I'm always open to collaborate, build, or chat about the latest in full stack web development!
 
 Visit my personal website:
 🌐 **[suraj-jaiswal.netlify.app](https://suraj-jaiswal.netlify.app)**
