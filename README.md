@@ -37,14 +37,26 @@ When I'm not busy convincing computers to do exactly what I want (which is harde
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Builds&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📫 Let's Connect & Build Something Amazing!
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suraj-jaiswal.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Build.Suraj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suraj-Builds)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-jaiswal-6a84011b1)
+<p align="center">
+  <a href="https://suraj-jaiswal.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Suraj--Jaiswal.netlify.app-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <br>
+  <a href="mailto:Build.Suraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Build.Suraj@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <br>
+  <a href="https://github.com/Suraj-Builds">
+    <img src="https://img.shields.io/badge/GitHub-Suraj--Builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br>
+  <a href="https://linkedin.com/in/suraj-jaiswal-6a84011b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-*"Great software is built not just with code, but with empathy for the user, respect for maintainability, and passion for continuous improvement."*
 
 Whether you're looking to collaborate on an exciting project, need a reliable full stack developer, or want to discuss the latest in web development, I'm always up for a meaningful conversation!
 
-Please visit my portfolio website:
+Visit my personal website:
 🌐 **[suraj-jaiswal.netlify.app](https://suraj-jaiswal.netlify.app)**
