@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Software Developer | Transforming Caffeine ☕ into Code
 
-*Currently based in Pune 📍, where I spend my days turning wild ideas 💡 into elegant digital solutions (and occasionally debugging why my code works on my machine but nowhere else 🤷‍♂️).*
+*I spend my days turning wild ideas 💡 into elegant digital solutions (and occasionally debugging why my code works on my machine but nowhere else 🤷‍♂️).*
 
 I'm a passionate full stack developer who believes that great software is like a good joke 😄 – it should be well-structured, deliver exactly what you expect, and leave everyone impressed ✨. I specialize in building scalable web applications that don't just work, but work beautifully 🎨.
 
@@ -37,7 +37,7 @@ When I'm not busy convincing computers to do exactly what I want (which is harde
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Builds&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📫 Let's Connect & Build Something Amazing!
-<p align="center">
+<p>
   <a href="https://suraj-jaiswal.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Suraj--Jaiswal.netlify.app-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -55,7 +55,7 @@ When I'm not busy convincing computers to do exactly what I want (which is harde
   </a>
 </p>
 
-I'm always open to collaborate, build, or chat about the latest in full stack web development!
+I'm always open to collaborate, build, or chat about the latest in web development!
 
 Visit my personal website:
 🌐 **[suraj-jaiswal.netlify.app](https://suraj-jaiswal.netlify.app)**
