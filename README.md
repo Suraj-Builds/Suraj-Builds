@@ -63,7 +63,3 @@ Whether you're looking to collaborate on an exciting project, need a reliable fu
 
 Please visit my portfolio website:
 🌐 **[suraj-jaiswal.netlify.app](https://suraj-jaiswal.netlify.app)**
-
----
-
-⭐️ From [Suraj-Builds](https://github.com/Suraj-Builds) | 📍 Pune, India | 🚀 Building the web, one commit at a time
