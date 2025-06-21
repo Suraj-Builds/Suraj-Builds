@@ -4,30 +4,24 @@
 
 Welcome to my corner of GitHub! I'm a passionate full stack developer from Pune who loves building applications that make a real difference. I specialize in creating scalable web solutions with modern technologies and have a strong foundation in both frontend and backend development.
 
-### 🛠️ My Tech Arsenal
+## 🛠️ My Tech Arsenal
 
-**Frontend Mastery:**
-- React.js (Expert in version migrations & optimization) 
-- Redux & Redux-Saga for complex state management
-- JavaScript ES6+ | TypeScript
-- HTML5 | CSS3 | SCSS for pixel-perfect styling
-- Material-UI & responsive design principles
-- Formik for robust form handling
+### Frontend Mastery:
+- React.js with Redux & Redux-Saga | JavaScript ES6+ | TypeScript
+- HTML5 | CSS3 | SCSS | Material-UI for responsive, pixel-perfect designs
+- Expert in version migrations, optimization & complex state management
 
-**Backend Excellence:**
-- Spring Boot & Spring Web MVC architecture
-- Java with enterprise-level best practices
-- RESTful API design & implementation
-- Hibernate ORM for database operations
-- JUnit testing with high coverage standards
+### Backend Excellence:
+- Spring Boot & Spring Web MVC with Java enterprise best practices
+- RESTful API design, Hibernate ORM & JUnit testing with high coverage
+- Scalable architecture implementation and performance optimization
 
-**Database & DevOps:**
-- PostgreSQL for complex relational data
-- SQL optimization and query performance
-- Git version control & collaboration
-- Template engines (Thymeleaf) for document generation
+### Database & DevOps:
+- PostgreSQL with SQL optimization and query performance tuning
+- Git version control, collaboration & template engines (Thymeleaf)
+- Digital document processing, PDF generation & CSV data systems
 
-**Specialized Skills:**
+### Specialized Skills:
 - Data visualization implementation
 - Financial application development
 - Digital document processing (PDF generation)
@@ -36,22 +30,18 @@ Welcome to my corner of GitHub! I'm a passionate full stack developer from Pune 
 - Real-time WebRTC applications
 - Mobile-responsive design patterns
 
-### 📊 GitHub Journey
-
+## 📊 GitHub Journey
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Builds&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🎓 Educational Foundation
+## 🎓 Educational Foundation
+**Electronics & Telecommunications Engineering** - VJTI Mumbai (2016-2020)  
+CGPA: 7.36/10
 
-**Electronics & Telecommunications Engineering**
-- VJTI Mumbai (Veermata Jijabai Technological Institute)
-- CGPA: 7.36/10 (2016-2020)
-
-### 🎯 Beyond the Code
+## 🎯 Beyond the Code
 - 🧩 **Sudoku Master** - Logic puzzles keep the mind sharp
 - 📚 **Tech Explorer** - Always learning new frameworks and tools
 
-### 📫 Let's Connect & Build Something Amazing!
-
+## 📫 Let's Connect & Build Something Amazing!
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suraj-jaiswal.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Build.Suraj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suraj-Builds)
