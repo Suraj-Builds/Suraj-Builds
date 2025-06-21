@@ -22,7 +22,7 @@ When I'm not busy convincing computers to do exactly what I want (which is harde
 - RESTful API design, Hibernate ORM & JUnit testing
 - Scalable architecture implementation and performance optimization
 
-### Database & DevOps:
+### Database:
 - PostgreSQL with SQL optimization and query performance tuning
 
 ### Specialized Skills:
